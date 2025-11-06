@@ -27,8 +27,14 @@ By certainty
 ![](ge-95.png)
 ![](ge-99.png)
 
-Source surveys
---------------
+References
+----------
+As discussed in:
+
+- [State of the post-quantum Internet in 2025](https://blog.cloudflare.com/pq-2025)
+
+### Source surveys
+
 - [2019](https://globalriskinstitute.org/publication/quantum-threat-timeline/)
 - [2020](https://globalriskinstitute.org/publication/quantum-threat-timeline-report-2020/)
 - [2021](https://globalriskinstitute.org/publication/2021-quantum-threat-timeline-report-global-risk-institute-global-risk-institute/)
